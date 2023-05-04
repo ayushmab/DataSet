@@ -1,1 +1,1 @@
-# DataSet
+# DataSet This dataset is based on me surveying different people to find out what their thoughts on the three types of feminism are between difference-denying, difference-removing and difference-honoring feminism.
